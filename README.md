@@ -18,7 +18,7 @@ The project demonstrates HTML and CSS skills by replicating a JavaScript documen
 ## 🛠️ Built With
 
 - HTML5
-- CSS3 (Flexbox, Media Queries)
+- CSS3 
 - Accessibility considerations
 - No JavaScript needed
 
