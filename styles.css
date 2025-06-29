@@ -1,6 +1,7 @@
   * {
     box-sizing: border-box;
   }
+  
 
   body {
     font-family: 'Open Sans', Arial, sans-serif;
@@ -58,6 +59,7 @@
     position: absolute;
     margin-left: 310px;
     padding: 20px;
+    width: 100%;
   }
 
   .main-section header {
@@ -95,6 +97,7 @@
       height: 300px;
       border: none;
       z-index: 2;
+      max-height: 300px;
 
     }
 
@@ -115,6 +118,8 @@
       position: absolute;
       margin-left: 0;
       margin-top: 280px;
+      width: 100%;
+      
 
     }
 
